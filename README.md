@@ -1,6 +1,8 @@
-### Hi there 👋 my name is Brandon Beckett.
+### Hi there 👋 I'm Brandon
 
-I'm based in Berlin, Germany. Currently, I'm working on bolstering my career within data science. Right now I'm learning data engineering best practices, and I'm learning deep learning with PyTorch through [fast.ai](https://www.fast.ai)
+Based in Berlin, Germany. I'm currently working on bolstering up my career within data science. At the moment, I'm learning data engineering best practices, and deep learning with PyTorch through [fast.ai](https://www.fast.ai)
+
+Feel free to reach out to me by email or through twitter.
 
 <!--
 **branBeckett/branBeckett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
