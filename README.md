@@ -2,7 +2,8 @@
 
 Based in Berlin. Currently learning data engineering in python, and deep learning with PyTorch through [fast.ai](https://www.fast.ai)
 
-Feel free to reach out to me by email or on Twitter. 
+Want to collaborate on a project? In Berlin and want to grab some :coffee:? Feel free to reach out to me anytime.**
+
 
 <!--
 **branBeckett/branBeckett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
