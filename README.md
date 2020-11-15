@@ -2,7 +2,7 @@
 
 Based in Berlin. Currently learning data engineering in python, and deep learning with PyTorch through [fast.ai](https://www.fast.ai)
 
-Want to collaborate on a project? In Berlin and want to grab some :coffee:? Feel free to reach out to me anytime.**
+Want to collaborate on a project? In Berlin and want to grab some :coffee:? Feel free to reach out to me anytime.
 
 
 <!--
