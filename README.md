@@ -1,6 +1,6 @@
 ### Hi there 👋🏼 I'm Brandon
 
-Living in Berlin. Currently working on advancing my career within data science. At the moment I'm learning data engineering in python at [Dataquest](dataquest.io), and deep learning with PyTorch through [fast.ai](https://www.fast.ai).
+Living in Berlin. Currently working on advancing my career within data science. At the moment I'm learning data engineering in python at [dataquest.io](dataquest.io), and deep learning with PyTorch through [fast.ai](https://www.fast.ai).
 
 Interested in collaborating on a project? In Berlin and want to grab a ☕️? Feel free to reach out to me anytime.
 
