@@ -4,8 +4,6 @@ I'm a data analyst working on advancing my career within data science. At the mo
 
 Interested in collaborating on a project? In Berlin and want to grab a ☕️? Feel free to reach out to me anytime.
 
-📍 Currently living in Berlin
-
 <!--
 **branBeckett/branBeckett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
