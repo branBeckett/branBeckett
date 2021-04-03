@@ -1,10 +1,12 @@
-### Hi there 👋🏼 I'm Brandon
+### Hi there 👋🏼 I'm Brandon.
 
-I'm a data analyst currently looking to advance my career within data science in Berlin. At the moment I'm learning deep learning with PyTorch through [fast.ai](https://www.fast.ai) and working on building a personal website to better showcase the projects I've done.
+🔭 I'm a data analyst currently working on advancing my career within data science in Berlin.
 
-Are you interested in collaborating on a project? In Berlin and want to grab a ☕️? Feel free to reach out to me anytime.
+💻 At the moment I'm learning deep learning with PyTorch through [fast.ai](https://www.fast.ai), and building a personal website to better showcase my projects.
 
-And if you interested in joining the AI community in Berlin, check out [meetup.AI](https://www.meetup.com/meetupai-Berlin/)!
+📨 Are you interested in collaborating on a project? In Berlin and want to grab a ☕️? Feel free to reach out to me anytime.
+
+🌍 Also, if you'd like to join the AI community in Berlin, check out [meetup.AI](https://www.meetup.com/meetupai-Berlin/)!
 
 <!--
 **branBeckett/branBeckett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
