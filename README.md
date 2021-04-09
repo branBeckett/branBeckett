@@ -6,7 +6,7 @@
 
 🤝 Are you interested in collaborating on a project? In Berlin and want to grab a ☕️? Feel free to reach out to me anytime 📨
 
-🌍 Also, if you'd like to join the AI community in Berlin, check out [meetup.AI](https://www.meetup.com/meetupai-Berlin/)!
+🏙 If you'd like to join the AI community in Berlin, check out [meetup.AI](https://www.meetup.com/meetupai-Berlin/)!
 
 <!--
 **branBeckett/branBeckett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
