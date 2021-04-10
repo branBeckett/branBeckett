@@ -1,8 +1,8 @@
-### Hi there 👋🏼 I'm Brandon.
+### Hi 👋🏼 I'm Brandon.
 
 🔭 I'm a data analyst currently working on advancing my career within data science in Berlin.
 
-💻 At the moment I'm learning deep learning with PyTorch through [fast.ai](https://www.fast.ai), and building a personal website to better showcase my projects.
+🔥 At the moment I'm learning deep learning with PyTorch through [fast.ai](https://www.fast.ai), 💻 and building a personal website to better showcase my projects.
 
 🤝 Are you interested in collaborating on a project? In Berlin and want to grab a ☕️? Feel free to reach out to me anytime 📨
 
