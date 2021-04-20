@@ -1,12 +1,12 @@
 ### Hi 👋🏼 I'm Brandon.
 
-🔭 I'm a data analyst currently working on advancing my career within data science in Berlin.
+🔭 I'm a data analyst currently working on advancing my career within data science in Berlin. Data is my [Ikigai](https://en.wikipedia.org/wiki/Ikigai)!
 
-At the moment I'm learning deep learning with PyTorch 🔥 through [fast.ai](https://www.fast.ai), 💻 and building a personal website to better showcase my projects.
+🧠 I believe that all evils come from a lack of knowledge, and anything that is physically possible can be accomplished with enough knowledge. 
 
-🤝 Are you interested in collaborating on a project? In Berlin and want to grab a ☕️? Feel free to reach out to me anytime 📨
+🤝 Please don't hesitate to contact me if you're interested in collaborating on a project, or if you're in Berlin and want to grab a ☕️.
 
-If you'd like to join the AI community in Berlin, check out [meetup.AI](https://www.meetup.com/meetupai-Berlin/)! 🏙
+Also, if you're interested in joining the AI community in Berlin, check out [meetup.AI](https://www.meetup.com/meetupai-Berlin/)! 🏙
 
 <!--
 **branBeckett/branBeckett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
