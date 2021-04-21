@@ -2,7 +2,7 @@
 
 I'm a data analyst currently working on advancing my career within data science in Berlin 🔭 data is my [Ikigai](https://en.wikipedia.org/wiki/Ikigai)!
 
-I believe that all evils come from a lack of knowledge, and anything that is physically possible can be accomplished with enough knowledge 🧠 so it's my goal to bring a few of those incredible technologies from the future into our present and help make all our lives just a little bit better.
+I believe that all evils come from a lack of knowledge, and anything that is physically possible can be accomplished with enough knowledge 🧠 so it's my goal to bring a few of those incredible technologies from the future into our present, and help make all our lives just a little bit better.
 
 Please don't hesitate to contact me if you're interested in collaborating on a project, have a virtual chat, or if you're in Berlin and want to grab a ☕️
 
