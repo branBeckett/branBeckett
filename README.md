@@ -1,6 +1,6 @@
 ### Hi 👋🏼 I'm Brandon.
 
-I'm a data analyst currently working in Berlin 🔭
+I'm a senior data analyst currently working in the heart of Berlin 🏙
 
 Anything that is physically possible can be accomplished with enough knowledge 🧠 so it's my goal to bring a few of those incredible technologies from the future into our present, and help make all our lives just a little bit better.
 
