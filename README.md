@@ -1,12 +1,12 @@
-### Hi 👋🏼 I'm Brandon.
+### Hi, I'm Brandon.
 
-I'm a senior data analyst currently working in the heart of Berlin 🏙
+I'm a senior data analyst & analytics engineer currently working in the heart of Berlin.
 
-Anything that is physically possible can be accomplished with enough knowledge 🧠 so it's my goal to bring a few of those incredible technologies from the future into our present, and help make all our lives just a little bit better.
+Anything that is physically possible can be accomplished with enough knowledge, so it's my goal to bring a few of those incredible technologies from the future into our present, and help make all our lives just a little better.
 
-Please don't hesitate to contact me if you're interested in collaborating on a project, have a virtual chat, or if you're in Berlin and want to grab a ☕️
+Please don't hesitate to contact me if you're interested in collaborating on a project, have a virtual chat, or if you're in Berlin and want to grab a coffee.
 
-Also, if you're interested in joining the AI community in Berlin, check out [meetup.AI](https://www.meetup.com/meetupai-Berlin/)! 🏙
+Also, if you're interested in joining the AI community in Berlin, check out [meetup.AI](https://www.meetup.com/meetupai-Berlin/)!
 
 <!--
 **branBeckett/branBeckett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
